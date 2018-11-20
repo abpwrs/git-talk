@@ -1,5 +1,5 @@
 # git-talk
-SWD Git Lecture  
+SWD Git Talk  
   
 ## Install git   
 Mac:  
